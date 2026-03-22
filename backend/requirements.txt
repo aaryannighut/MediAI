@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+scikit-learn
+numpy
+pydantic
+pydantic-settings
+email-validator
+rapidfuzz
+pandas
+joblib

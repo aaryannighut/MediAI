@@ -1,0 +1,751 @@
+text,label
+fever headache vomiting sweating,Malaria
+sweating vomiting fever nausea headache,Malaria
+fever vomiting nausea sweating chills headache,Malaria
+nausea sweating headache fever tremor,Malaria
+sweating vomiting chills,Malaria
+chills fever vomiting sweating nausea,Malaria
+chills headache fever,Malaria
+chills headache sweating nausea fever vomiting runny nose,Malaria
+chills vomiting nausea headache fever,Malaria
+headache fever chills nausea sweating,Malaria
+vomiting sweating headache chills,Malaria
+nausea headache fever sweating,Malaria
+fever sweating nausea chills headache vomiting,Malaria
+nausea sweating chills eye pain,Malaria
+headache chills nausea,Malaria
+vomiting headache fever sweating chills,Malaria
+fever vomiting sweating chills watery eyes,Malaria
+fever headache sweating chills,Malaria
+sweating headache chills nausea fever vomiting fatigue,Malaria
+headache vomiting sweating fever chills,Malaria
+sweating headache nausea fever,Malaria
+headache fever sweating,Malaria
+fever sweating chills headache,Malaria
+chills nausea fever,Malaria
+headache chills sweating nausea vomiting,Malaria
+nausea vomiting fever,Malaria
+chills vomiting sweating nausea headache,Malaria
+fever headache vomiting chills nausea,Malaria
+sweating chills headache nausea fever tremor,Malaria
+headache chills nausea fever sweating vomiting,Malaria
+sweating fever nausea chills cough,Malaria
+headache fever vomiting chills nausea sweating,Malaria
+headache fever sweating vomiting,Malaria
+headache sweating fever vomiting chills,Malaria
+fever vomiting chills fast heart rate,Malaria
+sweating vomiting headache chills,Malaria
+chills fever headache nausea vomiting sweating,Malaria
+fever sweating nausea vomiting chills headache,Malaria
+vomiting headache nausea sweating fever chills,Malaria
+nausea sweating headache,Malaria
+headache chills vomiting nausea fever sweating,Malaria
+chills fever vomiting,Malaria
+nausea headache sweating,Malaria
+headache vomiting fever nausea,Malaria
+nausea headache vomiting sweating,Malaria
+headache chills sweating fever nausea vomiting,Malaria
+vomiting headache nausea fever,Malaria
+vomiting sweating nausea fever,Malaria
+vomiting headache sweating chills fever,Malaria
+chills nausea headache fever vomiting loss of taste,Malaria
+fever headache eye pain,Dengue
+headache fever eye pain nausea rash joint pain vomiting cough,Dengue
+eye pain headache fever joint pain vomiting rash,Dengue
+eye pain rash fever headache joint pain vomiting nausea,Dengue
+joint pain fever vomiting eye pain rash nausea headache,Dengue
+fever nausea rash eye pain vomiting joint pain body ache,Dengue
+nausea rash headache vomiting joint pain shoulder pain,Dengue
+vomiting eye pain joint pain headache rash,Dengue
+headache nausea joint pain eye pain vomiting fever,Dengue
+vomiting rash joint pain,Dengue
+headache rash vomiting nausea fever,Dengue
+rash vomiting eye pain fever joint pain,Dengue
+vomiting joint pain headache eye pain rash fever nausea,Dengue
+headache eye pain rash fever vomiting joint pain nausea,Dengue
+vomiting fever nausea headache,Dengue
+eye pain headache rash vomiting nausea joint pain,Dengue
+eye pain fever rash,Dengue
+joint pain fever rash,Dengue
+joint pain headache eye pain nausea fever vomiting rash,Dengue
+eye pain headache rash vomiting,Dengue
+joint pain fever nausea rash headache vomiting eye pain,Dengue
+headache fever joint pain vomiting eye pain nausea runny nose,Dengue
+nausea rash eye pain headache joint pain vomiting fever,Dengue
+nausea eye pain headache,Dengue
+eye pain headache fever nausea joint pain vomiting rash,Dengue
+headache vomiting joint pain eye pain nausea rash,Dengue
+eye pain fever joint pain,Dengue
+fever headache joint pain nausea,Dengue
+vomiting joint pain fever headache,Dengue
+eye pain nausea rash headache fever,Dengue
+fever vomiting headache rash nausea eye pain,Dengue
+headache fever vomiting eye pain joint pain nausea rash body ache,Dengue
+fever rash vomiting joint pain eye pain headache nausea,Dengue
+vomiting joint pain rash fever sneezing,Dengue
+eye pain headache fever vomiting,Dengue
+rash fever headache nausea,Dengue
+nausea rash joint pain vomiting,Dengue
+headache nausea fever rash,Dengue
+headache nausea fever vomiting eye pain joint pain,Dengue
+joint pain fever nausea,Dengue
+joint pain nausea vomiting headache rash fever,Dengue
+joint pain nausea eye pain rash headache fever vomiting,Dengue
+rash joint pain fever vomiting eye pain shortness of breath,Dengue
+nausea fever vomiting rash fatigue,Dengue
+fever headache joint pain,Dengue
+vomiting rash fever,Dengue
+nausea headache eye pain rash vomiting fever joint pain,Dengue
+rash joint pain fever vomiting eye pain headache nausea,Dengue
+fever vomiting rash joint pain,Dengue
+headache joint pain nausea rash fever,Dengue
+diarrhea fatigue headache fever,Typhoid
+fever diarrhea vomiting,Typhoid
+stomach pain vomiting fatigue diarrhea headache,Typhoid
+fatigue fever diarrhea stomach pain cough,Typhoid
+vomiting fatigue diarrhea sweating,Typhoid
+fever diarrhea vomiting stomach pain fatigue headache,Typhoid
+stomach pain diarrhea vomiting fatigue fever,Typhoid
+vomiting fatigue fever diarrhea,Typhoid
+fever diarrhea stomach pain headache vomiting fatigue,Typhoid
+vomiting fever diarrhea headache,Typhoid
+fatigue diarrhea stomach pain vomiting,Typhoid
+vomiting fever headache fatigue diarrhea,Typhoid
+diarrhea headache fever fatigue stomach pain,Typhoid
+vomiting fever headache stomach pain diarrhea,Typhoid
+fatigue diarrhea headache stomach pain fever,Typhoid
+diarrhea fever stomach pain headache fatigue,Typhoid
+headache vomiting diarrhea stomach pain blurred vision,Typhoid
+headache stomach pain fever fatigue vomiting diarrhea,Typhoid
+headache stomach pain fatigue,Typhoid
+fever headache vomiting fatigue stomach pain,Typhoid
+stomach pain vomiting fatigue fever,Typhoid
+fatigue vomiting headache stomach pain fever,Typhoid
+headache fever diarrhea vomiting,Typhoid
+fatigue headache diarrhea fever vomiting stomach pain,Typhoid
+headache diarrhea fatigue fever stomach pain,Typhoid
+stomach pain headache diarrhea fatigue,Typhoid
+vomiting fever headache stomach pain fatigue diarrhea,Typhoid
+headache fatigue diarrhea vomiting stomach pain frequent urination,Typhoid
+diarrhea fever stomach pain,Typhoid
+stomach pain headache vomiting diarrhea fever fatigue chest pain,Typhoid
+fever stomach pain diarrhea vomiting,Typhoid
+headache vomiting fatigue,Typhoid
+vomiting diarrhea fever stomach pain,Typhoid
+diarrhea fatigue fever,Typhoid
+fever diarrhea vomiting,Typhoid
+vomiting fever stomach pain diarrhea fatigue,Typhoid
+vomiting diarrhea stomach pain,Typhoid
+headache stomach pain vomiting,Typhoid
+headache diarrhea stomach pain fatigue fever,Typhoid
+fever fatigue vomiting,Typhoid
+stomach pain headache diarrhea vomiting fever,Typhoid
+diarrhea headache stomach pain fever fatigue,Typhoid
+headache fever vomiting stomach pain fatigue,Typhoid
+diarrhea fever stomach pain,Typhoid
+fever vomiting fatigue stomach pain,Typhoid
+fatigue vomiting diarrhea,Typhoid
+stomach pain fever fatigue,Typhoid
+headache vomiting fever,Typhoid
+stomach pain fever vomiting diarrhea,Typhoid
+fever headache fatigue diarrhea stomach pain,Typhoid
+chills cough fever fatigue body ache sore throat,Flu
+sore throat chills runny nose,Flu
+fatigue sore throat cough,Flu
+sore throat cough fatigue,Flu
+cough runny nose sore throat,Flu
+fatigue cough runny nose fever body ache,Flu
+fatigue sore throat fever chills body ache,Flu
+sore throat cough chills runny nose fatigue body ache fever,Flu
+cough sore throat chills body ache runny nose,Flu
+body ache cough fever runny nose,Flu
+chills cough fever,Flu
+fatigue sore throat body ache cough,Flu
+runny nose fever fatigue body ache chills sore throat cough,Flu
+runny nose chills fatigue,Flu
+chills cough sore throat body ache fatigue fever,Flu
+runny nose cough fever,Flu
+chills fever sore throat cough runny nose body ache fatigue,Flu
+sore throat fever fatigue chills cough runny nose body ache,Flu
+sore throat cough body ache chills fatigue stomach pain,Flu
+sore throat fatigue chills body ache fever runny nose,Flu
+fever fatigue chills sore throat body ache diarrhea,Flu
+runny nose cough body ache fever,Flu
+fatigue chills cough fever body ache sore throat,Flu
+cough fever runny nose sore throat,Flu
+body ache sore throat chills,Flu
+runny nose chills sore throat fatigue body ache fever,Flu
+fatigue runny nose body ache cough chills fever,Flu
+fatigue cough sore throat runny nose,Flu
+chills cough sore throat fever sensitivity to light,Flu
+cough chills fatigue,Flu
+chills sore throat cough,Flu
+chills sore throat fever,Flu
+cough body ache fever sore throat chills fatigue runny nose,Flu
+chills body ache cough sore throat fatigue,Flu
+fever runny nose fatigue body ache,Flu
+fever body ache cough,Flu
+fatigue runny nose sore throat body ache chills,Flu
+runny nose cough sore throat body ache fever fatigue chills,Flu
+fatigue runny nose fever chills sore throat cough body ache,Flu
+fatigue chills runny nose cough,Flu
+fever sore throat chills runny nose cough,Flu
+chills sore throat cough runny nose fever fatigue body ache,Flu
+runny nose cough chills fever sore throat body ache,Flu
+fatigue runny nose chills fever cough sore throat,Flu
+chills cough body ache runny nose fever fatigue,Flu
+fever runny nose cough body ache chills sore throat fatigue,Flu
+sore throat fatigue chills body ache runny nose cough,Flu
+fatigue fever chills body ache,Flu
+fatigue runny nose body ache,Flu
+runny nose cough chills body ache sore throat fatigue fever,Flu
+sore throat runny nose congestion cough,Common Cold
+runny nose cough sneezing congestion,Common Cold
+sore throat sneezing congestion runny nose blurred vision,Common Cold
+sneezing cough congestion runny nose sore throat shoulder pain,Common Cold
+sneezing congestion sore throat cough,Common Cold
+sore throat congestion runny nose sneezing cough,Common Cold
+runny nose sneezing sore throat,Common Cold
+congestion sore throat cough runny nose,Common Cold
+congestion sore throat cough,Common Cold
+runny nose sneezing cough congestion,Common Cold
+sneezing cough congestion runny nose sore throat,Common Cold
+sneezing sore throat runny nose congestion cough fever,Common Cold
+sore throat cough congestion runny nose sneezing,Common Cold
+runny nose sore throat cough,Common Cold
+cough sneezing runny nose,Common Cold
+sneezing cough congestion runny nose chills,Common Cold
+runny nose congestion sore throat sneezing cough,Common Cold
+sneezing congestion cough runny nose,Common Cold
+sore throat cough sneezing fever,Common Cold
+cough sore throat congestion runny nose sneezing,Common Cold
+sneezing sore throat runny nose,Common Cold
+cough sneezing sore throat,Common Cold
+cough sneezing runny nose congestion,Common Cold
+sore throat runny nose cough,Common Cold
+sneezing runny nose congestion cough,Common Cold
+cough sore throat sneezing congestion,Common Cold
+sore throat runny nose congestion sneezing cough,Common Cold
+sore throat sneezing congestion cough runny nose,Common Cold
+sneezing runny nose sore throat cough congestion vomiting,Common Cold
+sore throat sneezing runny nose cough,Common Cold
+sore throat cough sneezing,Common Cold
+runny nose sore throat sneezing,Common Cold
+cough sore throat congestion runny nose,Common Cold
+sore throat cough sneezing congestion,Common Cold
+cough sneezing congestion runny nose,Common Cold
+cough congestion sore throat runny nose sneezing,Common Cold
+sore throat cough congestion sneezing runny nose,Common Cold
+sore throat runny nose sneezing cough,Common Cold
+sore throat cough runny nose congestion sneezing,Common Cold
+congestion sneezing sore throat runny nose cough,Common Cold
+runny nose cough congestion,Common Cold
+congestion sore throat cough sneezing runny nose,Common Cold
+runny nose cough sneezing,Common Cold
+congestion sore throat cough runny nose sneezing,Common Cold
+cough sneezing sore throat runny nose congestion,Common Cold
+cough congestion sore throat,Common Cold
+congestion sore throat sneezing cough nausea,Common Cold
+cough congestion sore throat runny nose,Common Cold
+congestion sneezing cough sore throat runny nose,Common Cold
+congestion cough sneezing shortness of breath,Common Cold
+loss of smell cough fatigue fever shortness of breath loss of taste chills,COVID-19
+fatigue loss of taste shortness of breath cough loss of smell fever,COVID-19
+loss of taste loss of smell fatigue cough,COVID-19
+loss of taste fever fatigue,COVID-19
+fatigue loss of smell loss of taste fever,COVID-19
+loss of taste fatigue cough sore throat,COVID-19
+fatigue loss of taste cough fever shortness of breath loss of smell,COVID-19
+shortness of breath cough loss of smell fever loss of taste fatigue,COVID-19
+loss of smell cough fever loss of taste shortness of breath,COVID-19
+fever shortness of breath fatigue,COVID-19
+loss of taste loss of smell fatigue chest pain,COVID-19
+loss of smell loss of taste cough fatigue nausea,COVID-19
+fatigue cough loss of smell loss of taste,COVID-19
+shortness of breath fatigue loss of smell cough sneezing,COVID-19
+fever shortness of breath fatigue loss of smell,COVID-19
+fever loss of smell cough,COVID-19
+loss of smell shortness of breath loss of taste fever cough,COVID-19
+shortness of breath fatigue loss of smell loss of taste cough fever,COVID-19
+loss of taste shortness of breath fever cough,COVID-19
+cough fatigue shortness of breath nausea,COVID-19
+fever shortness of breath loss of taste fatigue loss of smell,COVID-19
+fatigue fever loss of taste,COVID-19
+shortness of breath loss of smell loss of taste cough,COVID-19
+fatigue shortness of breath cough,COVID-19
+fever loss of smell shortness of breath loss of taste,COVID-19
+fatigue cough fever loss of smell loss of taste shortness of breath,COVID-19
+shortness of breath loss of taste fever cough fatigue loss of smell,COVID-19
+cough fatigue loss of taste shortness of breath fever loss of smell,COVID-19
+loss of smell fatigue shortness of breath fever,COVID-19
+fever loss of taste fatigue loss of smell shortness of breath cough,COVID-19
+fatigue shortness of breath loss of smell cough loss of taste fever,COVID-19
+loss of smell fever fatigue loss of taste,COVID-19
+cough fever loss of smell,COVID-19
+fatigue loss of taste fever,COVID-19
+cough fever loss of taste shortness of breath,COVID-19
+loss of smell fever fatigue shortness of breath loss of taste,COVID-19
+cough shortness of breath loss of smell fatigue loss of taste fever,COVID-19
+shortness of breath fatigue fever,COVID-19
+cough fever shortness of breath fatigue loss of smell,COVID-19
+cough fever loss of smell loss of taste fatigue,COVID-19
+shortness of breath loss of smell loss of taste cough,COVID-19
+loss of smell cough fatigue fever shortness of breath loss of taste,COVID-19
+loss of smell cough shortness of breath loss of taste fever,COVID-19
+loss of taste shortness of breath fatigue,COVID-19
+cough fatigue shortness of breath,COVID-19
+loss of taste loss of smell fever,COVID-19
+fatigue fever loss of smell cough shortness of breath loss of taste,COVID-19
+loss of taste cough shortness of breath loss of smell,COVID-19
+loss of smell cough fever,COVID-19
+fever loss of smell fatigue,COVID-19
+fever nausea stomach pain,Food Poisoning
+diarrhea nausea fever vomiting stomach pain,Food Poisoning
+nausea fever stomach pain diarrhea vomiting swelling,Food Poisoning
+fever nausea stomach pain vomiting cough,Food Poisoning
+nausea stomach pain fever vomiting,Food Poisoning
+nausea fever diarrhea vomiting,Food Poisoning
+fever stomach pain diarrhea,Food Poisoning
+stomach pain nausea diarrhea,Food Poisoning
+nausea fever stomach pain diarrhea,Food Poisoning
+fever stomach pain diarrhea nausea vomiting,Food Poisoning
+vomiting stomach pain nausea,Food Poisoning
+nausea stomach pain diarrhea fever,Food Poisoning
+diarrhea nausea vomiting,Food Poisoning
+diarrhea vomiting stomach pain,Food Poisoning
+stomach pain fever nausea diarrhea,Food Poisoning
+fever stomach pain vomiting diarrhea body ache,Food Poisoning
+stomach pain diarrhea nausea,Food Poisoning
+diarrhea vomiting nausea fever,Food Poisoning
+nausea vomiting fever diarrhea stomach pain,Food Poisoning
+vomiting fever diarrhea stomach pain nausea,Food Poisoning
+diarrhea vomiting fever stomach pain nausea,Food Poisoning
+diarrhea vomiting nausea,Food Poisoning
+stomach pain nausea diarrhea vomiting fever,Food Poisoning
+nausea fever vomiting stomach pain diarrhea,Food Poisoning
+fever stomach pain nausea,Food Poisoning
+stomach pain nausea diarrhea vomiting fever,Food Poisoning
+vomiting diarrhea fever stomach pain,Food Poisoning
+stomach pain fever vomiting nausea diarrhea,Food Poisoning
+stomach pain fever diarrhea nausea,Food Poisoning
+fever stomach pain nausea vomiting fatigue,Food Poisoning
+stomach pain nausea vomiting fever diarrhea,Food Poisoning
+fever nausea stomach pain vomiting diarrhea,Food Poisoning
+stomach pain diarrhea nausea fever vomiting,Food Poisoning
+fever nausea diarrhea vomiting stomach pain,Food Poisoning
+stomach pain vomiting nausea,Food Poisoning
+nausea diarrhea fever vomiting stomach pain,Food Poisoning
+stomach pain diarrhea vomiting nausea fever,Food Poisoning
+diarrhea stomach pain vomiting,Food Poisoning
+diarrhea stomach pain fever,Food Poisoning
+vomiting nausea diarrhea stomach pain fever,Food Poisoning
+diarrhea stomach pain nausea vomiting,Food Poisoning
+diarrhea vomiting stomach pain fever,Food Poisoning
+fever vomiting nausea stomach pain diarrhea,Food Poisoning
+stomach pain fever diarrhea nausea vomiting excessive thirst,Food Poisoning
+diarrhea fever nausea stomach pain,Food Poisoning
+stomach pain diarrhea vomiting nausea fever sneezing,Food Poisoning
+vomiting stomach pain diarrhea nausea,Food Poisoning
+fever vomiting diarrhea nausea stomach pain,Food Poisoning
+stomach pain nausea vomiting,Food Poisoning
+nausea diarrhea stomach pain vomiting fever,Food Poisoning
+rash itching watery eyes sneezing swelling,Allergic Reaction
+rash watery eyes itching swelling sneezing blurred vision,Allergic Reaction
+swelling watery eyes itching rash,Allergic Reaction
+sneezing watery eyes rash itching swelling,Allergic Reaction
+watery eyes itching sneezing rash swelling,Allergic Reaction
+sneezing itching swelling watery eyes rash,Allergic Reaction
+watery eyes sneezing itching swelling,Allergic Reaction
+watery eyes itching sneezing swelling rash,Allergic Reaction
+watery eyes rash itching sneezing,Allergic Reaction
+itching sneezing watery eyes rash swelling,Allergic Reaction
+itching rash sneezing watery eyes swelling,Allergic Reaction
+sneezing watery eyes rash itching swelling,Allergic Reaction
+watery eyes sneezing swelling,Allergic Reaction
+watery eyes itching swelling,Allergic Reaction
+swelling itching watery eyes,Allergic Reaction
+watery eyes rash itching,Allergic Reaction
+sneezing swelling watery eyes rash itching,Allergic Reaction
+rash itching swelling sneezing watery eyes,Allergic Reaction
+swelling itching rash sneezing,Allergic Reaction
+watery eyes itching sneezing swelling,Allergic Reaction
+watery eyes sneezing rash swelling,Allergic Reaction
+swelling sneezing watery eyes rash headache,Allergic Reaction
+swelling rash watery eyes itching sneezing,Allergic Reaction
+watery eyes rash sneezing itching swelling,Allergic Reaction
+sneezing swelling rash itching,Allergic Reaction
+sneezing swelling watery eyes itching rash,Allergic Reaction
+itching swelling rash watery eyes,Allergic Reaction
+rash itching sneezing watery eyes,Allergic Reaction
+swelling watery eyes sneezing itching rash fever,Allergic Reaction
+watery eyes rash itching sneezing swelling,Allergic Reaction
+rash swelling sneezing itching watery eyes,Allergic Reaction
+watery eyes swelling sneezing rash itching fatigue,Allergic Reaction
+sneezing watery eyes itching rash swelling nausea,Allergic Reaction
+watery eyes sneezing rash runny nose,Allergic Reaction
+rash itching sneezing swelling cough,Allergic Reaction
+rash swelling sneezing,Allergic Reaction
+swelling sneezing itching watery eyes sore throat,Allergic Reaction
+itching watery eyes swelling rash,Allergic Reaction
+rash itching swelling sneezing,Allergic Reaction
+rash sneezing itching watery eyes,Allergic Reaction
+watery eyes rash swelling cough,Allergic Reaction
+swelling itching watery eyes sneezing rash cough,Allergic Reaction
+sneezing watery eyes swelling itching,Allergic Reaction
+rash sneezing watery eyes,Allergic Reaction
+itching rash sneezing swelling chest pain,Allergic Reaction
+itching rash swelling watery eyes,Allergic Reaction
+itching watery eyes sneezing fever,Allergic Reaction
+rash itching sneezing watery eyes swelling,Allergic Reaction
+sneezing watery eyes rash itching swelling diarrhea,Allergic Reaction
+swelling sneezing itching watery eyes rash,Allergic Reaction
+nausea dizziness chest pain shortness of breath,Heart Attack
+nausea dizziness shoulder pain chest pain,Heart Attack
+nausea dizziness chest pain,Heart Attack
+dizziness nausea chest pain,Heart Attack
+nausea dizziness shoulder pain,Heart Attack
+chest pain shoulder pain shortness of breath dizziness nausea,Heart Attack
+chest pain dizziness shortness of breath,Heart Attack
+shoulder pain shortness of breath chest pain,Heart Attack
+shortness of breath chest pain nausea dizziness shoulder pain,Heart Attack
+nausea dizziness shoulder pain chest pain,Heart Attack
+shortness of breath chest pain nausea dizziness shoulder pain,Heart Attack
+nausea shoulder pain chest pain shortness of breath,Heart Attack
+nausea shortness of breath chest pain shoulder pain dizziness,Heart Attack
+shortness of breath dizziness nausea,Heart Attack
+dizziness shortness of breath chest pain shoulder pain nausea,Heart Attack
+nausea shoulder pain chest pain yellow skin,Heart Attack
+shoulder pain dizziness nausea shortness of breath chest pain,Heart Attack
+nausea dizziness shortness of breath,Heart Attack
+shortness of breath shoulder pain chest pain nausea dizziness,Heart Attack
+chest pain nausea dizziness shortness of breath shoulder pain,Heart Attack
+dizziness chest pain nausea,Heart Attack
+nausea shoulder pain shortness of breath,Heart Attack
+shortness of breath dizziness shoulder pain watery eyes,Heart Attack
+chest pain shoulder pain shortness of breath dizziness,Heart Attack
+shortness of breath nausea chest pain shoulder pain stomach pain,Heart Attack
+nausea shoulder pain chest pain dizziness,Heart Attack
+dizziness shortness of breath shoulder pain chest pain nausea,Heart Attack
+shoulder pain chest pain dizziness,Heart Attack
+shortness of breath shoulder pain nausea dizziness chest pain loss of smell,Heart Attack
+shortness of breath nausea dizziness chest pain shoulder pain,Heart Attack
+nausea dizziness chest pain,Heart Attack
+shoulder pain nausea dizziness,Heart Attack
+dizziness nausea shortness of breath,Heart Attack
+shoulder pain dizziness nausea,Heart Attack
+shoulder pain dizziness shortness of breath,Heart Attack
+dizziness chest pain nausea shortness of breath shoulder pain,Heart Attack
+dizziness shortness of breath shoulder pain,Heart Attack
+shortness of breath nausea chest pain,Heart Attack
+shortness of breath dizziness shoulder pain nausea,Heart Attack
+nausea shoulder pain dizziness shortness of breath,Heart Attack
+shoulder pain chest pain shortness of breath nausea dizziness,Heart Attack
+dizziness shoulder pain nausea chest pain shortness of breath,Heart Attack
+nausea shortness of breath dizziness,Heart Attack
+nausea dizziness shortness of breath shoulder pain,Heart Attack
+chest pain shortness of breath shoulder pain,Heart Attack
+shortness of breath shoulder pain chest pain nausea dizziness,Heart Attack
+nausea shortness of breath dizziness shoulder pain,Heart Attack
+shortness of breath chest pain dizziness shoulder pain nausea,Heart Attack
+shoulder pain chest pain dizziness nausea shortness of breath,Heart Attack
+shortness of breath dizziness chest pain nausea shoulder pain,Heart Attack
+chills shortness of breath chest pain fatigue cough,Pneumonia
+chest pain chills fever fatigue shortness of breath cough,Pneumonia
+fever chills fatigue chest pain shortness of breath stomach pain,Pneumonia
+shortness of breath chills chest pain loss of taste,Pneumonia
+cough chest pain fatigue chills fever,Pneumonia
+fatigue fever shortness of breath chills,Pneumonia
+fatigue cough fever chest pain,Pneumonia
+chest pain cough chills shortness of breath fatigue fever,Pneumonia
+cough fatigue chest pain fever chills shortness of breath,Pneumonia
+chest pain fatigue chills fever cough shortness of breath,Pneumonia
+fever shortness of breath chills cough fatigue chest pain weight loss,Pneumonia
+cough chills fatigue shortness of breath,Pneumonia
+fever chills fatigue chest pain,Pneumonia
+chills fatigue shortness of breath fever chest pain cough itching,Pneumonia
+fatigue chest pain shortness of breath,Pneumonia
+fever cough fatigue shortness of breath chest pain,Pneumonia
+chest pain cough chills shortness of breath fever,Pneumonia
+cough chest pain fever fatigue shortness of breath chills,Pneumonia
+chest pain chills cough shortness of breath fatigue,Pneumonia
+fatigue shortness of breath cough chills,Pneumonia
+chest pain shortness of breath fever cough,Pneumonia
+chest pain chills shortness of breath fever cough fatigue,Pneumonia
+cough fatigue chest pain fever,Pneumonia
+chills fatigue fever chest pain,Pneumonia
+fever chills cough shortness of breath weight loss,Pneumonia
+fever shortness of breath cough fatigue headache,Pneumonia
+chills fatigue shortness of breath,Pneumonia
+fatigue chest pain shortness of breath cough chills fever frequent urination,Pneumonia
+chest pain chills fatigue fever,Pneumonia
+fatigue chest pain fever chills,Pneumonia
+fatigue chest pain shortness of breath cough chills fever,Pneumonia
+fever shortness of breath cough fatigue chills chest pain,Pneumonia
+chills chest pain shortness of breath fever,Pneumonia
+shortness of breath fatigue chills,Pneumonia
+cough fatigue chills fever,Pneumonia
+fatigue shortness of breath chills,Pneumonia
+fever chills chest pain cough shortness of breath fatigue,Pneumonia
+fatigue cough chest pain chills shortness of breath,Pneumonia
+chills chest pain shortness of breath fever cough,Pneumonia
+chest pain shortness of breath fever cough chills fatigue,Pneumonia
+chills cough fever fatigue,Pneumonia
+fatigue chills chest pain nausea,Pneumonia
+shortness of breath chills chest pain fever fatigue cough sneezing,Pneumonia
+cough shortness of breath chest pain chills fever fatigue,Pneumonia
+chills chest pain fever shortness of breath,Pneumonia
+chills cough chest pain,Pneumonia
+chills chest pain cough,Pneumonia
+fatigue shortness of breath cough fever chest pain chills,Pneumonia
+fatigue fever shortness of breath chest pain chills cough,Pneumonia
+cough chills shortness of breath fever,Pneumonia
+headache dizziness nausea blurred vision sensitivity to light,Migraine
+headache dizziness nausea sensitivity to light,Migraine
+headache dizziness blurred vision,Migraine
+headache sensitivity to light nausea blurred vision,Migraine
+dizziness nausea headache sensitivity to light,Migraine
+dizziness nausea sensitivity to light blurred vision headache,Migraine
+dizziness nausea blurred vision sensitivity to light headache,Migraine
+headache dizziness nausea blurred vision sensitivity to light fever,Migraine
+headache nausea sensitivity to light,Migraine
+nausea sensitivity to light blurred vision dizziness,Migraine
+nausea sensitivity to light blurred vision,Migraine
+blurred vision sensitivity to light nausea dizziness headache,Migraine
+headache blurred vision dizziness nausea sensitivity to light,Migraine
+nausea blurred vision sensitivity to light,Migraine
+sensitivity to light blurred vision dizziness,Migraine
+headache sensitivity to light blurred vision,Migraine
+nausea headache sensitivity to light dizziness blurred vision,Migraine
+blurred vision dizziness headache,Migraine
+dizziness nausea headache rash,Migraine
+headache dizziness nausea blurred vision,Migraine
+blurred vision headache nausea,Migraine
+dizziness headache nausea blurred vision sensitivity to light,Migraine
+sensitivity to light blurred vision dizziness,Migraine
+headache blurred vision nausea runny nose,Migraine
+blurred vision dizziness headache nausea sensitivity to light,Migraine
+blurred vision sensitivity to light dizziness vomiting,Migraine
+dizziness headache nausea,Migraine
+dizziness blurred vision sensitivity to light headache nausea,Migraine
+headache nausea sensitivity to light dizziness,Migraine
+dizziness headache blurred vision sensitivity to light nausea vomiting,Migraine
+nausea blurred vision headache dizziness sensitivity to light,Migraine
+blurred vision nausea sensitivity to light dizziness headache,Migraine
+blurred vision headache nausea,Migraine
+blurred vision headache nausea,Migraine
+dizziness blurred vision sensitivity to light headache,Migraine
+headache sensitivity to light dizziness blurred vision,Migraine
+headache blurred vision sensitivity to light nausea,Migraine
+blurred vision headache nausea dizziness sensitivity to light,Migraine
+sensitivity to light dizziness blurred vision headache nausea,Migraine
+blurred vision dizziness nausea headache sensitivity to light,Migraine
+nausea dizziness headache diarrhea,Migraine
+nausea headache blurred vision dizziness sensitivity to light,Migraine
+blurred vision nausea sensitivity to light headache dizziness stomach pain,Migraine
+dizziness headache sensitivity to light blurred vision nausea,Migraine
+blurred vision headache sensitivity to light nausea dizziness,Migraine
+headache dizziness blurred vision,Migraine
+nausea sensitivity to light headache dizziness,Migraine
+blurred vision headache nausea dizziness,Migraine
+blurred vision sensitivity to light dizziness headache,Migraine
+headache blurred vision dizziness sensitivity to light fatigue,Migraine
+excessive thirst frequent urination blurred vision fatigue,Diabetes
+blurred vision fatigue frequent urination,Diabetes
+frequent urination excessive thirst blurred vision fever,Diabetes
+fatigue frequent urination excessive thirst blurred vision,Diabetes
+frequent urination blurred vision fatigue excessive thirst fever,Diabetes
+frequent urination blurred vision fatigue excessive thirst,Diabetes
+fatigue frequent urination blurred vision headache,Diabetes
+fatigue excessive thirst blurred vision,Diabetes
+blurred vision fatigue excessive thirst frequent urination,Diabetes
+excessive thirst fatigue blurred vision,Diabetes
+blurred vision frequent urination excessive thirst fatigue,Diabetes
+fatigue excessive thirst frequent urination,Diabetes
+fatigue blurred vision frequent urination,Diabetes
+fatigue blurred vision excessive thirst,Diabetes
+frequent urination fatigue blurred vision excessive thirst,Diabetes
+fatigue excessive thirst frequent urination fever,Diabetes
+fatigue excessive thirst blurred vision,Diabetes
+frequent urination excessive thirst fatigue blurred vision,Diabetes
+fatigue blurred vision excessive thirst frequent urination chills,Diabetes
+blurred vision excessive thirst frequent urination cough,Diabetes
+fatigue frequent urination blurred vision excessive thirst,Diabetes
+blurred vision excessive thirst fatigue frequent urination,Diabetes
+excessive thirst blurred vision fatigue,Diabetes
+excessive thirst blurred vision frequent urination sweating,Diabetes
+excessive thirst frequent urination fatigue,Diabetes
+blurred vision fatigue excessive thirst frequent urination,Diabetes
+frequent urination fatigue excessive thirst,Diabetes
+fatigue frequent urination excessive thirst,Diabetes
+excessive thirst frequent urination fatigue,Diabetes
+excessive thirst fatigue frequent urination,Diabetes
+frequent urination fatigue blurred vision excessive thirst,Diabetes
+blurred vision fatigue excessive thirst,Diabetes
+excessive thirst frequent urination fatigue blurred vision,Diabetes
+blurred vision excessive thirst fatigue frequent urination headache,Diabetes
+fatigue blurred vision excessive thirst,Diabetes
+frequent urination fatigue blurred vision excessive thirst cough,Diabetes
+fatigue excessive thirst blurred vision frequent urination,Diabetes
+fatigue excessive thirst blurred vision,Diabetes
+fatigue excessive thirst blurred vision,Diabetes
+excessive thirst frequent urination fatigue blurred vision,Diabetes
+excessive thirst frequent urination blurred vision fatigue joint pain,Diabetes
+frequent urination excessive thirst blurred vision,Diabetes
+blurred vision frequent urination excessive thirst fatigue,Diabetes
+frequent urination blurred vision excessive thirst,Diabetes
+fatigue blurred vision frequent urination runny nose,Diabetes
+frequent urination fatigue excessive thirst blurred vision,Diabetes
+blurred vision excessive thirst frequent urination,Diabetes
+blurred vision excessive thirst frequent urination fatigue,Diabetes
+excessive thirst blurred vision fatigue,Diabetes
+frequent urination excessive thirst blurred vision,Diabetes
+sweating fatigue fast heart rate tremor,Hyperthyroidism
+tremor fatigue sweating fast heart rate weight loss,Hyperthyroidism
+fast heart rate fatigue sweating,Hyperthyroidism
+fast heart rate sweating fatigue weight loss tremor,Hyperthyroidism
+tremor sweating weight loss fast heart rate fatigue,Hyperthyroidism
+fatigue sweating fast heart rate weight loss,Hyperthyroidism
+fatigue weight loss sweating fast heart rate congestion,Hyperthyroidism
+sweating weight loss fatigue tremor fast heart rate,Hyperthyroidism
+fatigue sweating weight loss fast heart rate tremor,Hyperthyroidism
+fast heart rate fatigue sweating,Hyperthyroidism
+fast heart rate sweating weight loss tremor,Hyperthyroidism
+fatigue fast heart rate sweating,Hyperthyroidism
+weight loss fatigue fast heart rate tremor sweating,Hyperthyroidism
+sweating weight loss fatigue fast heart rate tremor,Hyperthyroidism
+sweating tremor fast heart rate,Hyperthyroidism
+sweating fast heart rate weight loss fatigue tremor,Hyperthyroidism
+weight loss fatigue sweating fast heart rate tremor,Hyperthyroidism
+tremor sweating weight loss,Hyperthyroidism
+tremor fatigue weight loss sweating,Hyperthyroidism
+weight loss fast heart rate sweating tremor fatigue,Hyperthyroidism
+fast heart rate sweating fatigue vomiting,Hyperthyroidism
+fatigue weight loss tremor sweating fast heart rate,Hyperthyroidism
+tremor fatigue weight loss sweating fast heart rate,Hyperthyroidism
+weight loss fast heart rate sweating tremor shoulder pain,Hyperthyroidism
+fast heart rate fatigue weight loss tremor sweating,Hyperthyroidism
+sweating tremor fatigue,Hyperthyroidism
+weight loss sweating tremor,Hyperthyroidism
+fast heart rate fatigue sweating weight loss tremor,Hyperthyroidism
+fast heart rate tremor weight loss,Hyperthyroidism
+sweating weight loss fast heart rate fatigue tremor,Hyperthyroidism
+sweating tremor fatigue fast heart rate weight loss,Hyperthyroidism
+weight loss sweating tremor fast heart rate fatigue,Hyperthyroidism
+sweating fatigue fast heart rate tremor weight loss,Hyperthyroidism
+tremor weight loss fatigue fast heart rate sweating,Hyperthyroidism
+sweating fast heart rate weight loss,Hyperthyroidism
+weight loss tremor fast heart rate fatigue,Hyperthyroidism
+weight loss fast heart rate fatigue tremor,Hyperthyroidism
+fast heart rate tremor fatigue weight loss,Hyperthyroidism
+fast heart rate tremor sweating fatigue,Hyperthyroidism
+fatigue weight loss fast heart rate sweating,Hyperthyroidism
+fatigue weight loss tremor,Hyperthyroidism
+fast heart rate weight loss fatigue sweating tremor fever,Hyperthyroidism
+fast heart rate tremor weight loss,Hyperthyroidism
+tremor fast heart rate sweating weight loss fatigue,Hyperthyroidism
+fast heart rate fatigue tremor sweating headache,Hyperthyroidism
+fast heart rate weight loss tremor fatigue sweating,Hyperthyroidism
+sweating weight loss tremor chest pain,Hyperthyroidism
+sweating tremor weight loss,Hyperthyroidism
+fast heart rate weight loss tremor sweating sore throat,Hyperthyroidism
+fatigue sweating fast heart rate weight loss tremor,Hyperthyroidism
+nausea stomach pain fever,Jaundice
+yellow skin stomach pain fatigue fever,Jaundice
+nausea yellow skin fatigue stomach pain,Jaundice
+fever stomach pain fatigue nausea yellow skin,Jaundice
+yellow skin stomach pain fever nausea,Jaundice
+stomach pain fever nausea yellow skin,Jaundice
+nausea yellow skin stomach pain fatigue fever,Jaundice
+fatigue stomach pain nausea yellow skin fever,Jaundice
+stomach pain fatigue nausea,Jaundice
+nausea stomach pain fever fatigue yellow skin sneezing,Jaundice
+yellow skin fatigue nausea,Jaundice
+nausea stomach pain fever yellow skin fatigue,Jaundice
+fever nausea yellow skin,Jaundice
+nausea fever stomach pain chest pain,Jaundice
+nausea fever stomach pain fatigue eye pain,Jaundice
+yellow skin stomach pain nausea fatigue,Jaundice
+nausea yellow skin fatigue,Jaundice
+nausea fever fatigue,Jaundice
+yellow skin fever stomach pain nausea fatigue,Jaundice
+fever nausea yellow skin fatigue stomach pain,Jaundice
+fatigue fever stomach pain nausea,Jaundice
+stomach pain yellow skin fever fatigue,Jaundice
+fever fatigue nausea yellow skin stomach pain,Jaundice
+fever yellow skin stomach pain nausea,Jaundice
+fever fatigue nausea,Jaundice
+fever yellow skin stomach pain nausea,Jaundice
+stomach pain fatigue fever,Jaundice
+yellow skin fatigue stomach pain nausea fever,Jaundice
+stomach pain fever fatigue,Jaundice
+nausea stomach pain fatigue yellow skin,Jaundice
+fatigue nausea stomach pain yellow skin,Jaundice
+fatigue yellow skin stomach pain,Jaundice
+fever stomach pain nausea fatigue,Jaundice
+yellow skin fever stomach pain nausea fatigue,Jaundice
+yellow skin fever fatigue nausea stomach pain,Jaundice
+fever yellow skin stomach pain nausea,Jaundice
+nausea yellow skin fatigue stomach pain,Jaundice
+yellow skin nausea fever stomach pain fatigue,Jaundice
+fatigue stomach pain fever yellow skin nausea,Jaundice
+fever stomach pain nausea fatigue,Jaundice
+nausea stomach pain fatigue yellow skin,Jaundice
+yellow skin stomach pain fatigue nausea fever sore throat,Jaundice
+fever fatigue stomach pain nausea,Jaundice
+fatigue yellow skin fever stomach pain congestion,Jaundice
+stomach pain nausea yellow skin fatigue,Jaundice
+fatigue yellow skin stomach pain fever,Jaundice
+yellow skin fever stomach pain fatigue,Jaundice
+nausea yellow skin fever,Jaundice
+nausea fever stomach pain yellow skin,Jaundice
+fever yellow skin stomach pain fatigue,Jaundice
+fever fatigue headache,Chickenpox
+itching rash fever headache,Chickenpox
+fatigue headache rash,Chickenpox
+rash fever itching headache blurred vision,Chickenpox
+fatigue fever headache rash,Chickenpox
+fever rash fatigue headache,Chickenpox
+itching rash fever headache fatigue,Chickenpox
+fever itching headache,Chickenpox
+headache itching rash,Chickenpox
+fatigue headache itching rash,Chickenpox
+headache fever fatigue rash itching chest pain,Chickenpox
+headache fever rash fatigue itching,Chickenpox
+fatigue fever rash sore throat,Chickenpox
+itching rash fatigue headache fever,Chickenpox
+headache fatigue itching rash fever,Chickenpox
+rash fever headache,Chickenpox
+fever fatigue headache itching rash congestion,Chickenpox
+rash itching headache fatigue,Chickenpox
+fatigue headache fever itching rash cough,Chickenpox
+itching headache fatigue rash fever,Chickenpox
+rash fever itching,Chickenpox
+headache fever itching rash,Chickenpox
+rash fatigue headache itching fever,Chickenpox
+headache fatigue rash,Chickenpox
+headache rash fever fatigue itching,Chickenpox
+itching rash fatigue fever headache,Chickenpox
+itching fever rash sore throat,Chickenpox
+fever rash fatigue,Chickenpox
+headache fever itching rash fatigue,Chickenpox
+itching headache fever rash,Chickenpox
+fever itching rash fatigue headache runny nose,Chickenpox
+headache fatigue itching rash,Chickenpox
+itching fever headache fatigue rash,Chickenpox
+fever rash itching fatigue headache,Chickenpox
+fatigue rash fever headache itching,Chickenpox
+rash itching fever fatigue,Chickenpox
+headache itching rash,Chickenpox
+fatigue fever headache rash itching,Chickenpox
+fever fatigue itching headache,Chickenpox
+headache fever rash chest pain,Chickenpox
+headache fatigue itching rash fever,Chickenpox
+rash itching fatigue headache fever congestion,Chickenpox
+fever fatigue headache rash,Chickenpox
+itching rash headache,Chickenpox
+itching fever fatigue rash headache,Chickenpox
+rash itching headache,Chickenpox
+headache itching fatigue rash fever,Chickenpox
+headache itching fatigue rash fever,Chickenpox
+rash fever fatigue itching weight loss,Chickenpox
+itching fatigue fever,Chickenpox

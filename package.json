@@ -1,0 +1,13 @@
+{
+  "name": "mediai-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently --kill-others \"cd frontend && npm run dev\" \"cd backend && .\\venv\\Scripts\\uvicorn main:app --reload --host 0.0.0.0 --port 8000\""
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "concurrently": "^8.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}
