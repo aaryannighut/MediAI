@@ -158,17 +158,24 @@ You can use the provided root-level script if available:
 
 ## 📸 Screenshots
 
-![Landing_Page]![alt text](Landing_Page.png)
+### 📸 Landing Page
+![Landing Page](Landing_Page.png)
 
-![Dashboard]![alt text](Dashboard.png)
+### 📊 Dashboard
+![Dashboard](Dashboard.png)
 
-![Symptoms]![alt text](Symptom.png)
+### 🩺 Symptoms Checker
+![Symptoms](Symptom.png)
 
-![Chatbot]![alt text](Chatbot.png)
+### 💬 Chatbot
+![Chatbot](Chatbot.png)
 
-![Doctor_Booking]![alt text](Doctor.png)
+### 👨‍⚕️ Doctor Booking
+![Doctor Booking](Doctor.png)
 
-![History]![alt text](History.png)
+### 📜 History
+![History](History.png)
+
 ---
 
 ## 🔮 Future Enhancements
@@ -188,11 +195,6 @@ You can use the provided root-level script if available:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
