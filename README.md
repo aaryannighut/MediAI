@@ -110,7 +110,7 @@ mediAI/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/mediai.git
+git clone https://github.com/aaryannighut/MediAI.git
 cd mediai
 ```
 
@@ -158,17 +158,17 @@ You can use the provided root-level script if available:
 
 ## 📸 Screenshots
 
-![Landing Page Placeholder]![alt text](Landing_Page.png)
+![Landing_Page]![alt text](Landing_Page.png)
 
-![Dashboard Placeholder]![alt text](Dashboard.png)
+![Dashboard]![alt text](Dashboard.png)
 
-![Symptoms Placeholder]![alt text](Symptom.png)
+![Symptoms]![alt text](Symptom.png)
 
-![Chatbot Placeholder]![alt text](Chatbot.png)
+![Chatbot]![alt text](Chatbot.png)
 
-![Doctor Booking Placeholder]![alt text](Doctor.png)
+![Doctor_Booking]![alt text](Doctor.png)
 
-![History Placeholder]![alt text](History.png)
+![History]![alt text](History.png)
 ---
 
 ## 🔮 Future Enhancements
@@ -198,9 +198,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 **MediAI Development Team**
-Aaryan Nighut
-Aarya Nighut
-Ekanksh Mohite
+
+Aaryan Nighut<br>
+Aarya Nighut<br>
+Ekanksh Mohite<br>
 Rahul Yadav
 
 *A Senior software engineer specializing in AI-integrated healthcare solutions.*
